@@ -1,2 +1,2 @@
-# Movie-recommendation-system-
-Project
+# Movie_Recommendation_System
+Python Project +Streamlit
