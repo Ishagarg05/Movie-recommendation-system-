@@ -1,3 +1,3 @@
 # Movie_Recommendation_System
-Python Project +Streamlit
+Python Project +Streamlit.
 Worked with jupyter and streamlit for interface.
